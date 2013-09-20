@@ -11,4 +11,4 @@ Bundle 'linjiex/vim-color-sf-for-chinese'
 
 ## ScreenShot ##
 
-![ScreenShot](linjiex.github.com/vim-color-sf-for-chinese/ScreenShot/ScreenShot.png)
+![ScreenShot](https://raw.github.com/linjiex/vim-color-sf-for-chinese/master/ScreenShot/ScreenShot.png)
